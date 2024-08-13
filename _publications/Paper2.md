@@ -5,7 +5,7 @@ permalink: /publication/p2
 excerpt: 'Rich countries vary widely in practice patterns and performance following hip fracture.'
 date: 2023-12-01
 venue: 'Journal of the American Geriatrics Society'
-paperurl: 'http://gabeweinreb.github.io/files/mcwilliams-et-al-2023-risk-adjustment-and-promoting-health-equity-in-population-based-payment-concepts-and-evidence'
+paperurl: 'http://gabeweinreb.github.io/files/J American Geriatrics Society - 2023 - Burrack - Variation in care for patients presenting with hip fracture in six.pdf'
 citation: 'Burrack, N., Hatfield, L. A., Bakx, P., Banerjee, A., Chen, Y., Fu, C., Godoy, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. U., Ravi, B., Al‐Azazi, S., <b>Weinreb, G. G.,</b> Cram, P., Landon, B. E. (2023). Variation in care for patients presenting with hip fracture in six high‐income countries: A cross‐sectional cohort study. Journal of the American Geriatrics Society, 71(12), 3780–3791. https://doi.org/10.1111/jgs.18530'
 ---
 
