@@ -1,7 +1,7 @@
 ---
 title: "Risk Adjustment And Promoting Health Equity In Population-Based Payment: Concepts And Evidence"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/p1
 excerpt: 'Including sociodemographic variables in risk adjustment models could reduce payments to minoritized grofor marginalized groups.'
 date: 2023
 venue: 'Health Affairs'
