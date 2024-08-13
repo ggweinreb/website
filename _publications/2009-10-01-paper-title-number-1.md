@@ -2,12 +2,12 @@
 title: "Risk Adjustment And Promoting Health Equity In Population-Based Payment: Concepts And Evidence"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'Including sociodemographic variables in risk adjustment models could reduce payments to minoritized grofor marginalized groups.'
+date: 2023
+venue: 'Health Affairs'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'McWilliams, J. M., **Weinreb, G.**, Ding, L., Ndumele, C. D., & Wallace, J. (2023). Risk adjustment and promoting health equity in population-based payment: Concepts and evidence. Health Affairs, 42(1), 105–114. https://doi.org/10.1377/hlthaff.2022.00916 '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The objective of risk adjustment is not to predict spending accurately but to support the social goals of a payment system, which include equity. Setting population-based payments at accurate predictions risks entrenching spending levels that are insufficient to mitigate the impact of social determinants on health care use and effectiveness. Instead, to advance equity, payments must be set above current levels of spending for historically disadvantaged groups. In analyses intended to guide such reallocations, we found that current risk adjustment for the community-dwelling Medicare population overpredicts annual spending for Black and Hispanic beneficiaries by $376–$1,264. The risk-adjusted spending for these populations is lower than spending for White beneficiaries despite the former populations’ worse risk-adjusted health and functional status. Thus, continued movement from fee-for-service to population-based payment models that omit race and ethnicity from risk adjustment (as current models do) should result in sizable resource reallocations and incentives that support efforts to address racial and ethnic disparities in care. We found smaller overpredictions for less-educated beneficiaries and communities with higher proportions of residents who are Black, Hispanic, or less educated, suggesting that additional payment adjustments that depart from predictive accuracy are needed to support health equity. These findings also suggest that adding social risk factors as predictors to spending models used for risk adjustment may be counterproductive or accomplish little.
