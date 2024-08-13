@@ -3,7 +3,7 @@ title: "Risk Adjustment And Promoting Health Equity In Population-Based Payment:
 collection: publications
 permalink: /publication/p1
 excerpt: 'Including sociodemographic variables in risk adjustment models could reduce payments to minoritized grofor marginalized groups.'
-date: 2023
+date: 2023-01-01
 venue: 'Health Affairs'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'McWilliams, J. M., **Weinreb, G.**, Ding, L., Ndumele, C. D., & Wallace, J. (2023). Risk adjustment and promoting health equity in population-based payment: Concepts and evidence. Health Affairs, 42(1), 105–114. https://doi.org/10.1377/hlthaff.2022.00916 '
