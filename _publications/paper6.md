@@ -3,7 +3,7 @@ title: "Association of Medicare Advantage vs Traditional Medicare With 30-Day Mo
 collection: publications
 permalink: /publication/p6
 excerpt: " Enrollment in Medicare Advantage, compared with traditional Medicare, was associated with modestly lower rates of 30-day mortality following acute MI in 2009, and the difference was no longer statistically significant by 2018."
-date: 2023-08-01
+date: 2022-12-06
 venue: "JAMA"
 paperurl: "http://gabeweinreb.github.io/files/jama_landon_2022_oi_220126_1670259767.12356.pdf"
 citation: "Landon, B. E., Anderson, T. S., Curto, V. E., Cram, P., Fu, C., <b>Weinreb, G. G.,</b> Zaslavsky, A. M., & Ayanian, J. Z. (2022). Association of Medicare Advantage vs Traditional Medicare With 30-Day Mortality Among Patients With Acute Myocardial Infarction. <i>JAMA, 328</i>(21), 2126. https://doi.org/10.1001/jama.2022.20982"
