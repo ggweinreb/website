@@ -6,7 +6,7 @@ excerpt: 'Rich countries vary widely in practice patterns and performance follow
 date: 2023-12-01
 venue: 'Journal of the American Geriatrics Society'
 paperurl: 'http://gabeweinreb.github.io/files/J American Geriatrics Society - 2023 - Burrack - Variation in care for patients presenting with hip fracture in six.pdf'
-citation: 'Burrack, N., Hatfield, L. A., Bakx, P., Banerjee, A., Chen, Y., Fu, C., Godoy, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. U., Ravi, B., Al‐Azazi, S., <b>Weinreb, G. G.,</b> Cram, P., Landon, B. E. (2023). Variation in care for patients presenting with hip fracture in six high‐income countries: A cross‐sectional cohort study. Journal of the American Geriatrics Society, 71(12), 3780–3791. https://doi.org/10.1111/jgs.18530'
+citation: 'Burrack, N., Hatfield, L. A., Bakx, P., Banerjee, A., Chen, Y., Fu, C., Godoy, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. U., Ravi, B., Al‐Azazi, S., <b>Weinreb, G. G.,</b> Cram, P., Landon, B. E. (2023). Variation in care for patients presenting with hip fracture in six high‐income countries: A cross‐sectional cohort study. <i>Journal of the American Geriatrics Society,</i> 71(12), 3780–3791. https://doi.org/10.1111/jgs.18530'
 ---
 
 Background: Hip fractures are costly and common in older adults, but there is limited understanding of how treatment patterns and outcomes might differ between countries. 
