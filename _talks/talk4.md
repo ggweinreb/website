@@ -8,7 +8,7 @@ date: 2024-07-01
 location: "Baltimore"
 ---
 
-Rotenstein, L., <b>Weinreb, G. G.,</b> Holmgren, Adler-Milstein, J., Landon, B. E. [Download poster](https://gabeweinreb.github.io/files/Prevalence%20and%20Predictors%20Care%20Poster%20Lisa%20-%20LR%206.26.pdf)
+Rotenstein, L., <b>Weinreb, G. G.,</b> Adler-Milstein, J., Landon, B. E. [Download poster](https://gabeweinreb.github.io/files/Prevalence%20and%20Predictors%20Care%20Poster%20Lisa%20-%20LR%206.26.pdf)
 
 <b style="color:#34568b">Note:</b> this research project evolved between the abstract submission and final poster presentation. The latter supersedes.
 
@@ -45,7 +45,8 @@ reduction in services, while PCPs practicing in rural (vs urban) settings (OR: 1
 non-internal medicine physicians (OR 1.09 (95% CI: 1.07, 1.12) were more likely to reduce their services.
 Increasing panel risk score and increasing average patient age were associated with greater (p<0.0001)
 and lower (p<0.0001) likelihood of sustained service reduction, respectively.
-Conclusions: Physician reductions in clinical effort are prevalent and persistent. Rural physicians, noninternal medicine physicians, and those serving more medically complex panels are more likely to reduce
+
+<b style="color:#34568b">Conclusions:</b> Physician reductions in clinical effort are prevalent and persistent. Rural physicians, noninternal medicine physicians, and those serving more medically complex panels are more likely to reduce
 services rendered.
 
 <b style="color:#34568b">Implications for Policy or Practice:</b> These findings suggest that we can expect to see an intensifying of the
