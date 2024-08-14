@@ -3,7 +3,7 @@ title: "When PCPs reduce clinical volume, they reduce EHR use by less"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/talk2
-venue: "SGIM"
+venue: "SGIM (Society for General Internal Medicine)"
 date: 2024-05-17
 location: "Boston"
 ---
