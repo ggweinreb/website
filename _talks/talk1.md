@@ -3,7 +3,7 @@ title: "Physician treatment preference formation and diffusion: The case of spec
 collection: talks
 type: "Podium presentation"
 permalink: /talks/talk1
-venue: "ASHEcon"
+venue: "ASHEcon (American Society of Health Economists)"
 date: 2023-06-13
 location: "St. Louis"
 ---
