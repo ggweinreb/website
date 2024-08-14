@@ -21,8 +21,10 @@ In my first two years at McKinsey I spent 80% of my time serving health care cli
 
 Reading list
 ======
+
 Health care and professionalism
 -----
+
 * Freidson, E. (2001). <i>Professionalism, the Third Logic.</i> University of Chicago Press. 
 * Starr, P. (1984). <i>The Social Transformation of American Medicine.</i> Basic Books.
 
