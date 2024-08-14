@@ -1,16 +1,15 @@
 ---
 title: "Physician treatment preference formation and diffusion: The case of specialty referrals"
 collection: talks
-type: "Talk"
+type: "Podium presentation"
 permalink: /talks/talk1
 venue: "ASHEcon"
 date: 2023-06-13
 location: "St. Louis"
 ---
 
-asdf
+Pany, M., <b>Weinreb, G. G.,</b> McWilliams, J. M. 
 
-Abstract
 Variation in physician practice patterns is a key determinant of health care spending and care quality. Practice variation at the regional and local levels has been linked to variation in local health care capital and technology (e.g., the number of available hospital beds or advanced imaging), patient preferences, and the diffusion of knowledge, skills, and preferences among physicians. While existing empirical evidence highlights the key influence of physician preferences on practice patterns, evidence on how these preferences form and diffuse is lacking.
 In this study, we investigate how practice preferences form and diffuse among communities of physicians. We consider the case of primary care physicians’ (PCPs’) specialty referral decisions, an important component of practice variation where PCPs have significant discretion and their choices have downstream consequences for patients’ care cascades. Specifically, we examine whether PCPs who work together during quasi-randomly assigned overlapping shifts at one high-volume primary care practice influence each other’s specialty referrals. The practice comprises a mix of experienced attending physicians and less experienced resident physician trainees supervised by the attendings, allowing us to investigate preference diffusion across horizontal (i.e., attending-attending) and vertical (i.e., attending-trainee) physician relationships. Using records of PCPs’ specialist choices in the practice’s electronic health record (EHR), we find that PCPs who share shifts are more likely to refer to the same specialists than those who do not. The effect exhibits a dose response, increasing in magnitude with the number of overlapping shifts. We also find evidence suggestive of heterogeneity across horizontal versus vertical physician relationships.
 
