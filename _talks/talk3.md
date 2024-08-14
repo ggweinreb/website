@@ -8,4 +8,4 @@ date: 2024-07-01
 location: "Baltimore"
 ---
 
-<b>Weinreb, G. G.,</b> Holmgren, A J., Apathy, N., Landon, B. E., Rotenstein, L.  [Download poster]("https://gabeweinreb.github.io/files/240627 - ARM poster.pdf")
+<b>Weinreb, G. G.,</b> Holmgren, A J., Apathy, N., Landon, B. E., Rotenstein, L.  [Download poster](https://gabeweinreb.github.io/files/240627%20-%20ARM%20poster.pdf)
