@@ -1,5 +1,5 @@
 ---
-title: "Prevalence and Predictors of Physician Reductions in Clinical Effort: A Nationwide, Longitudinal Analysis"
+title: "Prevalence and predictors of physician reductions in clinical effort: A nationwide, longitudinal analysis"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/talk4
