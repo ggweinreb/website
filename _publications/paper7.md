@@ -6,7 +6,7 @@ excerpt: "Income-based disparities in care patterns and patient outcomes followi
 date: 2023-04-01
 venue: "JAMA"
 paperurl: "http://gabeweinreb.github.io/files/jama_landon_2023_oi_230018_1680552342.76126.pdf"
-citation: "Landon, B. E., Hatfield, L. A., Bakx, P., Banerjee, A., Chen, Y. C., Fu, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. U. D., Yan, L., <b>Weinreb, G. G.,</b> & Cram, P. (2023). Differences in treatment patterns and outcomes of acute myocardial infarction for low- and high-income patients in 6 countries. <i>JAMA, 329</i>(13), 1088. https://doi.org/10.1001/jama.2023.1699"
+citation: "Landon, B. E., Hatfield, L. A., Bakx, P., Banerjee, A., Chen, Y. C., Fu, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. U. D., Yan, L., <b>Weinreb, G. G.,</b> & Cram, P. (2023). Differences in treatment patterns and outcomes of acute myocardial infarction for low- and high-income patients in 6 countries. <i>JAMA, 329</i>(13), 1088."
 ---
 
 <b style="color:#34568b">Question:</b> How do treatment patterns and outcomes for older patients presenting with acute myocardial infarction differ for low- vs high-income individuals across 6 countries.
