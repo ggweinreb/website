@@ -2,7 +2,7 @@
 title: "What physicians know about quality: Transmission of specialist preferences from preceptors to residents"
 collection: talks
 type: "Poster presentation"
-permalink: /talks/talk4
+permalink: /talks/talk5
 venue: "ARM (AcademyHealth Annual Research Meeting)"
 date: 2024-07-01
 location: "Baltimore"
