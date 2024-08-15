@@ -22,10 +22,24 @@ In my first two years at McKinsey I spent 80% of my time serving health care cli
 Reading list
 ======
 
-Health care and professionalism
+Health care and professionalism:
 -----
-
-* Freidson, E. (2001). <i>Professionalism, the Third Logic.</i> University of Chicago Press. 
+* De La Croix, D., Doepke, M., & Mokyr, J. (2017). Clans, Guilds, and Markets: Apprenticeship Institutions and Growth in the Preindustrial Economy. <i>The Quarterly Journal of Economics, 133</i>(1), 1–70.
+* Freidson, E. (2001). <i>Professionalism, the Third Logic.</i> University of Chicago Press.
+* Kleiner, M. M. (2015). <i>Guild-ridden Labor Markets.</i> W. E. Upjohn Institute.
+* Larson, M. S. (1979). <i>The Rise of Professionalism.</i> Univ of California Press.
+* Ogilvie, S. (2014). The Economics of Guilds. <i>The Journal of Economic Perspectives, 28</i>(4), 169–192.
 * Starr, P. (1984). <i>The Social Transformation of American Medicine.</i> Basic Books.
 
+Other favorite books:
+-----
+* Feyerabend, P. (1993). <i>Against Method.</i> Verso.
+* Goldin, C. D., & Katz, L. F. (2008). <i>The Race Between Education and Technology.</i> Harvard University Press.
+* Kuhn, T. S. (1992). <i>The Copernican Revolution.</i> Harvard University Press.
+* Nelson, R. R., Winter, S. G. (1985). <i>An Evolutionary Theory of Economic Change.</i> Harvard University Press.
+  
+Reading next:
+-----
+* Abbott, A. (2014). <i>The System of Professions.</i> University of Chicago Press.
+* Polanyi, K. (1944). <i>The Great Transformation.</i> Farrar & Rinehart.
 
