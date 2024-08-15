@@ -6,7 +6,7 @@ excerpt: "Accross countries, female incidence of AMI declined relative to males 
 date: 2024-03-01
 venue: "Circulation Cardiovascular Quality and Outcomes"
 paperurl: "http://gabeweinreb.github.io/files/lu-et-al-2024-sex-based-disparities-in-acute-myocardial-infarction-treatment-patterns-and-outcomes-in-older-adults.pdf"
-citation: "Lu, H., Hatfield, L. A., Al-Azazi, S., Bakx, P., Banerjee, A., Burrack, N., Chen, Y. C., Fu, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. a. U. D., <b>Weinreb, G. G.,</b> Landon, B. E., Cram, P. (2024). Sex-based disparities in acute myocardial infarction treatment patterns and outcomes in older adults hospitalized across 6 high-income countries: An analysis from the International Health Systems Research Collaborative. <i>Circulation Cardiovascular Quality and Outcomes,</i> 17(3). https://doi.org/10.1161/circoutcomes.123.010144"
+citation: "Lu, H., Hatfield, L. A., Al-Azazi, S., Bakx, P., Banerjee, A., Burrack, N., Chen, Y. C., Fu, C., Gordon, M., Heine, R., Huang, N., Ko, D. T., Lix, L. M., Novack, V., Pasea, L., Qiu, F., Stukel, T. A., Groot, C. a. U. D., <b>Weinreb, G. G.,</b> Landon, B. E., Cram, P. (2024). Sex-based disparities in acute myocardial infarction treatment patterns and outcomes in older adults hospitalized across 6 high-income countries: An analysis from the International Health Systems Research Collaborative. <i>Circulation Cardiovascular Quality and Outcomes,</i> 17(3)."
 ---
 
 <b style="color:#34568b">Background:</b> Sex differences in acute myocardial infarction treatment and outcomes are well documented, but it is unclear
