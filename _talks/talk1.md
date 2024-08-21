@@ -8,7 +8,7 @@ date: 2023-06-13
 location: "St. Louis"
 ---
 
-Pany, M., <b>Weinreb, G. G.,</b> McWilliams, J. M. 
+Pany, M., <b>Weinreb, G. G.,</b> McWilliams, J. M. [Download presentation](https://gabeweinreb.github.io/files/referral_dyads.pdf)
 
 <b style="color:#34568b"> Abstract:</b> Variation in physician practice patterns is a key determinant of health care spending and care quality. Practice variation at the regional and local levels has been linked to variation in local health care capital and technology (e.g., the number of available hospital beds or advanced imaging), patient preferences, and the diffusion of knowledge, skills, and preferences among physicians. While existing empirical evidence highlights the key influence of physician preferences on practice patterns, evidence on how these preferences form and diffuse is lacking.
 
