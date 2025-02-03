@@ -8,7 +8,7 @@ date: 2024-07-01
 location: "Baltimore"
 ---
 
-Pany, M., McWilliams, J. M., <b>Weinreb, G. G.</b> [Download poster](TBD)
+Pany, M., McWilliams, J. M., <b>Weinreb, G. G.</b> 
 
 <b style="color:#34568b">Note:</b> this research project evolved between the abstract submission and final poster presentation. The latter supersedes.
 
