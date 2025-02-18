@@ -49,6 +49,8 @@ layout: default
 
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller"> {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% if page.citation and page.paperurl and page.podcast %}
+          <p style="font-size: smaller"> {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.podcast }}">Podcast interview</a></p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller"> {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
         {% elsif page.citation and page.slidesurl %}
