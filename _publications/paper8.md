@@ -1,6 +1,5 @@
-
-layout: single
 ---
+layout: single
 title: "Use of patient health survey data for risk adjustment to limit distortionary coding incentives in Medicare"
 collection: publications
 permalink: /publication/p8
