@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Physician treatment preference formation and diffusion: The case of specialty referrals<br />ASHEcon (American Society of Health Economists); St. Louis",
+    38.6280278,
+    -90.1910154
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Prevalence and predictors of physician reductions in clinical effort: A nationwide, longitudinal analysis<br />ARM (AcademyHealth Annual Research Meeting); Baltimore",
+    39.2908816,
+    -76.610759
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "When PCPs reduced clinical volume during the pandemic, they reduced EHR use by less<br />ARM (AcademyHealth Annual Research Meeting); Baltimore",
+    39.2908816,
+    -76.610759
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "What physicians know about quality: Transmission of specialist preferences from preceptors to residents<br />ARM (AcademyHealth Annual Research Meeting); Baltimore",
+    39.2908816,
+    -76.610759
   ]
 ];
