@@ -14,6 +14,9 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Claim denials"
+    url: /claim-denials/
+
   # - title: "Teaching"
   #   url: /teaching/    
     
