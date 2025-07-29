@@ -12,9 +12,9 @@ title                    : "Gabe Weinreb"
 title_separator          : "-"
 name                     : &name "Gabe Weinreb"
 description              : &description "personal description"
-url                      : https://gabeweinreb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gabeweinreb/gabeweinreb.github.io"
+url                      : "https://ggweinreb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/website" # the subpath of your site, e.g. "/blog"
+repository               : "ggweinreb/website"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
