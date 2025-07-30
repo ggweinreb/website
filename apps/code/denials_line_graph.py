@@ -23,9 +23,14 @@ from dash import ALL, MATCH
 # System utilities
 import signal
 import subprocess
+import requests
 
 # %%
-df = pd.read_parquet("C:/Users/gabew/Downloads/summary.parquet")
+
+DATA_URL = os.environ["DATA_URL"]
+r = requests.get(DATA_URL)
+df = pd.read_parquet(io.BytesIO(r.content))
+
 df = df.rename(columns={'betos_label': 'betos_category'})
 
 # %%
@@ -756,7 +761,8 @@ print("Use Ctrl+C or run the stop_dash_app() function to stop it.")
 
 # Run the app
 if __name__ == '__main__':
-    app.run(debug=True, host='127.0.0.1', port=8052, use_reloader=False)  # Use port 8052 to avoid conflicts
+    port = int(os.environ.get("PORT", 8052))
+    app.run(debug=False, host='0.0.0.0', port=port, use_reloader=False)
 
 # %%
 def stop_dash_app(port=8052):  # Changed default port to match the app
@@ -808,8 +814,3 @@ def stop_dash_app(port=8052):  # Changed default port to match the app
 
 # %%
 # stop_dash_app()
-
-
-
-
-
