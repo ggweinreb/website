@@ -24,10 +24,12 @@ from dash import ALL, MATCH
 import signal
 import subprocess
 import requests
+import io
 
 # %%
 
 DATA_URL = os.environ["DATA_URL"]
+
 r = requests.get(DATA_URL)
 df = pd.read_parquet(io.BytesIO(r.content))
 
@@ -764,53 +766,4 @@ if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8052))
     app.run(debug=False, host='0.0.0.0', port=port, use_reloader=False)
 
-# %%
-def stop_dash_app(port=8052):  # Changed default port to match the app
-    """Finds and terminates the process running the Dash app on the specified port (Windows version)."""
-    try:
-        # Use PowerShell to find processes using the port
-        powershell_cmd = f'Get-NetTCPConnection -LocalPort {port} -State Listen -ErrorAction SilentlyContinue | Select-Object OwningProcess'
-        result = subprocess.run(['powershell', '-Command', powershell_cmd], 
-                               capture_output=True, text=True, check=False)
-        
-        if result.returncode != 0 or not result.stdout.strip():
-            print(f"No app found running on port {port}.")
-            return
-            
-        # Extract PIDs from PowerShell output
-        lines = result.stdout.strip().split('\n')  # Fixed: was '/n', should be '\n'
-        pids = []
-        for line in lines:
-            if line.strip() and line.strip() != 'OwningProcess' and line.strip() != '-------------':
-                try:
-                    pid = int(line.strip())
-                    pids.append(pid)
-                except ValueError:
-                    continue
-        
-        if not pids:
-            print(f"No app found running on port {port}.")
-            return
-
-        # Kill the processes
-        for pid in pids:
-            try:
-                # Use taskkill command for Windows
-                kill_result = subprocess.run(['taskkill', '/F', '/PID', str(pid)], 
-                                           capture_output=True, text=True, check=False)
-                if kill_result.returncode == 0:
-                    print(f"Successfully stopped app with PID {pid} on port {port}.")
-                else:
-                    print(f"Could not stop process {pid}: {kill_result.stderr}")
-            except Exception as e:
-                print(f"Could not stop process {pid}: {e}")
-
-    except Exception as e:
-        print(f"An error occurred while trying to stop the app: {e}")
-        print("You can also manually stop the process using Task Manager:")
-        print("1. Open Task Manager (Ctrl+Shift+Esc)")
-        print("2. Look for Python processes")
-        print("3. End the process running your Dash app")
-
-# %%
-# stop_dash_app()
+server = app.server

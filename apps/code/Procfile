@@ -1,0 +1,1 @@
+web: gunicorn denials_line_graph:server
