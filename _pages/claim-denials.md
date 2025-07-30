@@ -14,6 +14,7 @@ This dashboard provides an interactive analysis of Medicare Advantage claim deni
     src="https://denials-line-graph-da765f909e9d.herokuapp.com/"
     frameborder="0"
     allowfullscreen
+    allow="fullscreen"
     style="width: 100%; height: 800px; border: 1px solid #ccc;"
     title="Medicare Advantage Denial Rates Dashboard">
   </iframe>
@@ -37,6 +38,14 @@ This dashboard provides an interactive analysis of Medicare Advantage claim deni
     .iframe-container iframe {
       height: 600px;
     }
+  }
+  
+  /* Ensure fullscreen works properly */
+  .iframe-container:fullscreen iframe {
+    width: 100vw;
+    height: 100vh;
+    border: none;
+    border-radius: 0;
   }
 </style>
 

@@ -224,10 +224,21 @@ app = dash.Dash(
 # ----- APP LAYOUT -----
 # Define the app layout with clear organization
 app.layout = dbc.Container([
-    # Header section
+    # Header section with fullscreen button
     dbc.Row([
         dbc.Col([
-            html.H1("Medicare Advantage Claim Denial Rates", className="text-center mb-4"),
+            html.Div([
+                html.H1("Medicare Advantage Claim Denial Rates", className="text-center mb-4 d-inline-block"),
+                dbc.Button(
+                    "⤢", 
+                    id="fullscreen-btn",
+                    color="outline-secondary",
+                    size="sm",
+                    className="float-end mt-2",
+                    title="Open in fullscreen",
+                    style={"fontSize": "18px", "padding": "4px 8px"}
+                )
+            ], style={"position": "relative"})
         ], width=12)
     ], className="mt-4 mb-2"),
     
@@ -334,8 +345,55 @@ app.layout = dbc.Container([
     ])
 ], fluid=True, className="px-4 py-3")
 
+# Add JavaScript for fullscreen functionality
+app.index_string = '''
+<!DOCTYPE html>
+<html>
+    <head>
+        {%metas%}
+        <title>{%title%}</title>
+        {%favicon%}
+        {%css%}
+        <script>
+            function toggleFullscreen() {
+                if (!document.fullscreenElement) {
+                    document.documentElement.requestFullscreen().catch(err => {
+                        console.log(`Error attempting to enable fullscreen: ${err.message}`);
+                    });
+                } else {
+                    document.exitFullscreen();
+                }
+            }
+        </script>
+    </head>
+    <body>
+        {%app_entry%}
+        <footer>
+            {%config%}
+            {%scripts%}
+            {%renderer%}
+        </footer>
+    </body>
+</html>
+'''
+
 # %%
 # ----- CALLBACK DEFINITIONS -----
+
+# Fullscreen button callback
+app.clientside_callback(
+    """
+    function(n_clicks) {
+        if (n_clicks > 0) {
+            toggleFullscreen();
+        }
+        return '';
+    }
+    """,
+    Output('fullscreen-btn', 'title'),
+    Input('fullscreen-btn', 'n_clicks'),
+    prevent_initial_call=True
+)
 
 # 1. Category dropdown callback
 @callback(
@@ -757,10 +815,6 @@ def update_plot(selected_category, selected_subcategory, denial_type, spending_t
 
 # %%
 # ----- RUN THE DASH APP -----
-print("Starting the Dash app...")
-print("The app will be available at: http://127.0.0.1:8052")
-print("Use Ctrl+C or run the stop_dash_app() function to stop it.")
-
 # Run the app
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8052))
