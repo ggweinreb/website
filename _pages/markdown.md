@@ -2,9 +2,10 @@
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
+published: false
 ---
 
 {% include toc %}
