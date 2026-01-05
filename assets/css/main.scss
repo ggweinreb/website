@@ -40,3 +40,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Homepage name styling */
+.page__title {
+  font-size: 2.5em;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+/* Accent color for section headers */
+.page__content h2 {
+  color: var(--global-accent-color);
+  border-bottom: 2px solid var(--global-accent-color);
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+}

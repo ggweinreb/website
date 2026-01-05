@@ -2,6 +2,7 @@
 title: "Risk adjustment and health equity: The authors' reply"
 collection: publications
 permalink: /publication/p11
+stream: utilization
 excerpt: "Authors' response regarding risk adjustment and health equity."
 date: 2023-05-01
 venue: "Health Affairs"

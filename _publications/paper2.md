@@ -2,6 +2,7 @@
 title: "Variation in care for patients presenting with hip fracture in six high‐income countries: A cross‐sectional cohort study"
 collection: publications
 permalink: /publication/p2
+stream: specialization
 excerpt: 'Rich countries vary widely in practice patterns and performance following hip fracture.'
 date: 2023-12-01
 venue: 'Journal of the American Geriatrics Society'

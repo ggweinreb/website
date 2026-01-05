@@ -1,6 +1,11 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 .sass-cache/
+.claude/
+.jekyll-cache/
+.jekyll-metadata
+.DS_Store
+Thumbs.db
 
 # Ignore the directory for local files during development
 local/

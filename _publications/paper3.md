@@ -2,6 +2,7 @@
 title: "Sex-based disparities in acute myocardial infarction treatment patterns and outcomes in older adults hospitalized across 6 high-income countries"
 collection: publications
 permalink: /publication/p3
+stream: specialization
 excerpt: "Accross countries, female incidence of AMI declined relative to males from 2011-18. Rates of surgery were lower for females and mortality was higher."
 date: 2024-03-01
 venue: "Circulation Cardiovascular Quality and Outcomes"

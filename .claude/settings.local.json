@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "WebSearch",
+      "WebFetch(domain:theacademicdesigner.com)",
+      "WebFetch(domain:www.founderjar.com)",
+      "Bash(docker-compose up:*)"
     ]
   }
 }

@@ -3,6 +3,7 @@ layout: single
 title: "Use of patient health survey data for risk adjustment to limit distortionary coding incentives in Medicare"
 collection: publications
 permalink: /publication/p8
+stream: utilization
 excerpt: "Hybrid risk scores based on survey data and HCC diagnoses mitigate coding and selection incentives, strengthen incentives to manage medical expenditures, and reallocate payments from ACOs with inflated HCC risk scores to those serving populations with more meaningful indicators of poor health."
 date: 2025-01-01
 venue: "Health Affairs"

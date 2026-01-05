@@ -2,6 +2,7 @@
 title: "Making sense of new approaches to primary care delivery: A typology of innovations in primary care"
 collection: publications
 permalink: /publication/p4
+stream: utilization
 excerpt: "This typology of new innovative primary care organizations — spanning comprehensive care providers, limited-service providers, and value-based
 care enablers — provides a useful conceptual framework for classifying emerging models of primary care delivery and financing."
 date: 2022-05-09

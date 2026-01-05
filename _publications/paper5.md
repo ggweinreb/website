@@ -2,6 +2,7 @@
 title: "Association of functional status, cognition, social support, and geriatric syndrome with admission from the emergency department"
 collection: publications
 permalink: /publication/p5
+stream: utilization
 excerpt: "This cohort study assesses observable patient-level factors associated with emergency department clinicians’ admission decision."
 date: 2023-08-01
 venue: "JAMA Internal Medicine"

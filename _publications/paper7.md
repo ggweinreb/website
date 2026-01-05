@@ -2,6 +2,7 @@
 title: "Differences in treatment patterns and outcomes of acute myocardial infarction for low- and high-income patients in 6 countries"
 collection: publications
 permalink: /publication/p7
+stream: specialization
 excerpt: "Income-based disparities in care patterns and patient outcomes following AMI were present even in countries with universal health insurance and robust social safety net systems."
 date: 2023-04-01
 venue: "JAMA"

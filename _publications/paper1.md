@@ -2,6 +2,7 @@
 title: "Risk adjustment and promoting health equity in population-based payment: Concepts and evidence"
 collection: publications
 permalink: /publication/p1
+stream: utilization
 excerpt: "Including sociodemographic variables in risk adjustment models could reduce payments for marginalized groups."
 date: 2023-01-01
 venue: "Health Affairs"
