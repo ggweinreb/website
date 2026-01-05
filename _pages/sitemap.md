@@ -9,7 +9,8 @@ author_profile: true
 
 A list of all the posts and pages found on the site. For you robots out there, there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
-<h2>Pages</h2>
+## Pages
+
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
@@ -20,7 +21,9 @@ A list of all the posts and pages found on the site. For you robots out there, t
 {% unless collection.output == false or collection.label == "posts" %}
   {% capture label %}{{ collection.label }}{% endcapture %}
   {% if label != written_label %}
-  <h2>{{ label }}</h2>
+
+## {{ label }}
+
   {% capture written_label %}{{ label }}{% endcapture %}
   {% endif %}
 {% endunless %}

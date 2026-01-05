@@ -11,11 +11,13 @@ I am a doctoral candidate in Health Policy and Management at Harvard Business Sc
 
 ## Research
 
-My research examines **how expert knowledge shapes organizations**—particularly the tension between physicians' professional autonomy and managerial oversight. I pursue two interrelated research streams:
+I like thinking about the evolving role of physicians as professionals. Even as medicine becomes more complex and physicians' expertise more specialized, their decisions are more constrained than ever by non-professional organizations like health systems and insurance companies.
 
-**Utilization Management and Value-Based Care**: How do insurance companies, value-based payment programs, and hospital managers influence physicians? What are the effects on patient care? I study Medicare Advantage and ACO programs, prior authorization and claim denials, and advanced primary care practices.
+My research is mostly set in the Traditional Medicare and Medicare Advantage programs. I use data from medical claims, electronic health records, and operational data from third-party organizations.
 
-**Provider Specialization**: How do doctors become experts? How do hospital teams learn to perform new procedures? I study physician training, professionalism, and technology diffusion.
+**Utilization Management and Value-Based Care**: How do insurance companies, value-based payment programs, and health system managers influence physicians? What are the effects on patient care? I study Medicare Advantage and ACO programs, prior authorization and claim denials, and advanced primary care practices.
+
+**Provider Specialization**: How do doctors become experts? How do hospital teams learn to perform new procedures? I study physician training, specialization, and technology diffusion.
 
 ## Background
 
