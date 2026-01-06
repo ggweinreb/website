@@ -26,6 +26,7 @@ author:
   bio              : "PhD Candidate, Health Policy, Harvard Business School"
   location         : "Boston"
   employer         :
+  email            : "ggweinreb@hbs.edu"
   googlescholar    : "https://scholar.google.com/citations?user=jGaHgGsAAAAJ&hl=en"
   linkedin         : "https://www.linkedin.com/in/gabe-weinreb/"
   orcid            : "https://orcid.org/0000-0002-1220-8090"
@@ -125,9 +126,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -159,15 +157,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
   # _publications
   - scope:
       path: ""
